@@ -14,8 +14,6 @@
 <li>學校:<a href="https://www.nfu.edu.tw/zh/" target="_blank">國立虎尾科技大學<a></li><br/>
 <li>班級:五資一甲</li><br/>
 <li>生日:97/05/24</li><br/>
-    </ul>    
-    </p>
     興趣:<br/>
     <ol>
     <li>玩電腦</li>
